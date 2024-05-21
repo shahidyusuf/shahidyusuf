@@ -1,4 +1,6 @@
 ## Hi there 👋
+Im Studying a MERN 
+- 🌱 I’m currently learning HTML| CSS | JS | React.js | React Native | Next.js
 
 <!--
 **shahidyusuf/shahidyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
